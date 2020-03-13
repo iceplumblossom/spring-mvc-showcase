@@ -41,3 +41,9 @@ Note:
 This showcase originated from a [blog post](https://spring.io/blog/2010/07/22/spring-mvc-3-showcase/) and was adapted into a SpringOne presentation called [Mastering MVC 3](https://www.infoq.com/presentations/Mastering-Spring-MVC-3).
 
 A screen cast showing the showcase in action is [available in QuickTime format](http://s3.springsource.org/MVC/mvc-showcase-screencast.mov).
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Note：
+This demo didn't use any DB and the relational DB-Middleware(no Hibernate, no MyBatis).
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
